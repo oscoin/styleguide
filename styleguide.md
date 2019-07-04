@@ -28,8 +28,4 @@
 | lightGreen  | `#24F38B` | ![lightgreen](https://user-images.githubusercontent.com/2326909/48194752-2acf8f00-e34e-11e8-89f8-bd0fd0a237ea.png)  |
 | yellow      | `#E3ED11` | ![yellow](https://user-images.githubusercontent.com/2326909/48194762-2c00bc00-e34e-11e8-9c8c-01fb03de9b14.png)      |
 | pink        | `#E074CB` | ![pink](https://user-images.githubusercontent.com/2326909/48194756-2b682580-e34e-11e8-916c-c5a49978b765.png)        |
-
-
-[🔥 help ](mailto:julien@monadic.xyz)
-
   
